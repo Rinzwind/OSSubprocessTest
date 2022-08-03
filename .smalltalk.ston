@@ -1,0 +1,14 @@
+SmalltalkCISpec {
+  #loading: [ 
+    SCIMetacelloLoadSpec {
+      #baseline : 'Test',
+      #directory : 'src',
+      #platforms : [ #pharo ]
+    }
+  ],
+  #testing : {
+     #defaultTimeout : 1000,
+     #serializeError: false,
+     #packages : [ 'TestPackage' ]
+  }
+}

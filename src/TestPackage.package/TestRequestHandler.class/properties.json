@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WARequestHandler",
+	"category" : "TestPackage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TestRequestHandler",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfTest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Password",
+		"Username"
+	],
+	"instvars" : [ ],
+	"name" : "BaselineOfTest",
+	"type" : "normal"
+}
